@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Minecrafter';
-  src: url('Minecrafter.Alt.ttf') format('truetype');
+  src: url('./Minecrafter.Alt.ttf') format('truetype');
 }
 
 * {
