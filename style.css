@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Minecrafter';
+  src: url('/Minecrafter.Alt.ttf') format('truetype');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: black;
+}
+
+#title {
+  color: white;
+  padding-bottom: 1em;
+  font-family: 'Minecrafter';
+}
+
+img {
+  padding: 150px;
+}
